@@ -1,0 +1,15 @@
+sqlalchemy>=2.0.36
+psycopg2-binary>=2.9.6
+sentencepiece>=0.1.97
+pandas>=2.2.3
+scikit-learn>=1.5.2
+nltk>=3.9.1
+praw>=7.8.1
+transformers>=4.46.3
+torch>=2.5.1
+tqdm>=4.67.1
+matplotlib>=3.9.3
+wordcloud>=1.9.4
+spacy>=3.8.2
+accelerate>=0.26.0
+urllib3<2.0
